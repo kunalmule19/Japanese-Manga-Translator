@@ -1,0 +1,7 @@
+{
+  "name": "Manga Translator",
+  "description": "Real-time AI translation of Japanese manga panels into English with OCR, speech bubble overlays, camera scanner, and furigana reader.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
